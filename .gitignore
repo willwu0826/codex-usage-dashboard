@@ -1,0 +1,17 @@
+# 本机私有数据、配置与运行产物
+/03_数据/
+/config.json
+/tests/.tmp/
+/tests/.artifacts/
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+*.log
+*.jsonl
+.env
+.env.*
+.venv/
+venv/
+.DS_Store
+Thumbs.db
